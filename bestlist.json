@@ -1,0 +1,45 @@
+{
+    "list": [
+        {
+            "no": 1,
+            "title": "서빙보드 도마 위에 바다",
+            "price": 40000,
+            "delivery": 2500,
+            "imgsrc": "https://image.idus.com/image/files/9dd21091986e4640b69facb2c07864df_1440.jpg"
+        },
+        {
+            "no": 2,
+            "title": "푸른 꽃노트💙 (수제 압화 노트)",
+            "price": 13500,
+            "delivery": 0,
+            "imgsrc": "https://image.idus.com/image/files/e5fe4a244d4e4a78963bd449bd0301c7_1440.jpg"
+        },
+        {
+            "no": 3,
+            "title": "✨감성소품 추천✨ LED 코르크 바다무드등(250ml)",
+            "price": 25000,
+            "delivery": 0,
+            "imgsrc": "https://image.idus.com/image/files/9086816fd50f4843ada59c91708d2f74_1440.jpg"
+        },
+        {
+            "no": 4,
+            "title": "[선물세트]우주술 클래식500ml 선셋 전통주 술선물",
+            "price": 29000,
+            "delivery": 0,
+            "imgsrc": "https://image.idus.com/image/files/468922bf975e4b968889c6b5c20d193e_1440.jpg"
+        }, {
+            "no": 5,
+            "title": "여름바다 젤캔들 홀더 / 바다 티라이트 홀더",
+            "price": 21000,
+            "delivery": 0,
+            "imgsrc": "https://image.idus.com/image/files/393ca4b68e27424eb9dbc46603fe3ae8_1440.jpg"
+        },{
+            "no": 6,
+            "title": "여름바다 젤캔들 홀더 / 바다 티라이트 홀더",
+            "price": 7900,
+            "delivery": 1000,
+            "imgsrc": "https://image.idus.com/image/files/fa0f394713254f68a5153616f27e579d_1440.jpg"
+        }
+
+    ]
+}
